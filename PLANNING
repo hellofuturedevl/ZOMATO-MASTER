@@ -1,0 +1,52 @@
+ ZOMOTO PLANNNG
+
+pages:
+
+1.home
+2.delivery
+3.dining out
+4.night life page
+
+Auth/Private page:
+
+1.profile(settings,about,etc...)
+
+Tech Stack:
+
+1.MongoDb as database
+2.AWS S3 as a block storage
+3.open street map
+
+
+Database Planning:
+
+1.orders
+2.reviews
+3.restaurants
+4.foods
+5.menu
+6.images
+
+1000 Restaurants ->100 Menus ->100 Foods ->100 Reviews
+
+Authentication/Authorization
+
+JWT(Json Web Token) 
+
+Deployment
+
+git Repo ->CICD ->AWS
+
+
+
+API PLANNING:
+
+1.Auth
+2.Foods
+3.Restaurants
+4.Order
+5.Menu
+6.Payments(Razorpay)
+7.Reviews
+8.User
+9.Image 
